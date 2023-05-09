@@ -53,17 +53,17 @@ This greenpaper has ten sections, each focusing on a specific aspect of the Dece
 - Foreword	1
 - Preamble	1
 - Abstract	2
-- 1. Introduction	2
+1. Introduction	2
 - 1.1 Background and Motivation	2
 - 1.2 Objective and Scope	2
 - 1.3 Organization of the Greenpaper	3
 - 1.4 Table of Contents	3
-- 2. Background and Related Work	5
+2. Background and Related Work	5
 - 2.1 Decentralized Autonomous Organizations (DAOs)	5
 - 2.2 Blockchain Technology and Smart Contracts	5
 - 2.3 Cooperative Game Theory and Nash Equilibrium	6
 - 2.4 Regenerative Culture and Sustainability	6
-- 3. Mathematical Foundations	6
+3. Mathematical Foundations	6
 - 3.1 Graph Theory and Trust Networks	6
 - 3.2 Game Theory: Cooperative and Non-Cooperative Games	6
 - 3.3 Positive-Sum Infinite Cooperative Games	6
@@ -71,17 +71,17 @@ This greenpaper has ten sections, each focusing on a specific aspect of the Dece
 - 3.4.1 Model	7
 - 3.4.2 Definition	7
 - 3.5 Probability Theory and Expected Outcomes	7
-- 4. Decentragora's Core Components	7
+4. Decentragora's Core Components	7
 - 4.1 On-Chain Membership and Reputation System	7
 - 4.2 Decentralized Governance Model	8
 - 4.3 Quadratic Funding and Public Goods Provision	8
 - 4.4 Regenerative and Sustainable Practices	8
-- 5. Application of Mathematical Foundations in Decentragora	8
+5. Application of Mathematical Foundations in Decentragora	8
 - 5.1 Trust Graph: Integrating On-Chain Membership and Reputation	8
 - 5.2 Equilibrium in Positive-Sum Infinite Cooperative Games	8
 - 5.3 Optimistic Loops and Reinforcement in dAgoric Method	8
 - 5.4 Game Theoretical Analysis of Decentragora's Ecosystem	8
-- 6. Reward Mechanics	9
+6. Reward Mechanics	9
 - 6.1 Reward Mechanic 1: Contribution-based Incentive System and Dynamic Reputation	9
 - 6.1.1 Overview	9
 - 6.1.2 Mechanism Design	9
@@ -109,7 +109,7 @@ This greenpaper has ten sections, each focusing on a specific aspect of the Dece
 - 6.3.7 Impact	13
 - 6.3.8 Challenges and Future Developments	13
 - 6.3.9 Summary	13
-- 7. The Regenerative Governance Model	13
+7. The Regenerative Governance Model	13
 - 7.1 Overview	13
 - 7.2 Tri-Cameral Governance Structure	13
 - 7.2.1 Chamber of Visionaries	13
@@ -124,7 +124,7 @@ This greenpaper has ten sections, each focusing on a specific aspect of the Dece
 - 7.6 Anti-Sybil ID Mechanism and Decentralized Reputation System	15
 - 7.7 Social Graph and Collective Maintenance	15
 - 7.8 Metagora Access Card: The Interactive Citizen Passport	15
-- 8. Optimistic Loopers: Decentragora's Economic Model	15
+8. Optimistic Loopers: Decentragora's Economic Model	15
 - 8.1 Overview	15
 - 8.2 Dual-Token System	16
 - 8.2.1 Agora Tokens (AGT)	16
@@ -140,7 +140,7 @@ This greenpaper has ten sections, each focusing on a specific aspect of the Dece
 - 8.9 Exchange Mechanism: Metagora Exchange	18
 - 8.10 Exit Mechanism and Penalties: Hermes' Escape	19
 - 8.11 Summary	19
-- 9. Implementation and Future Work	19
+9. Implementation and Future Work	19
 - 9.1 Decentragora's Technological Stack	19
 - 9.2 Challenges and Limitations	20
 - 9.2.1 Scalability	20
@@ -151,7 +151,7 @@ This greenpaper has ten sections, each focusing on a specific aspect of the Dece
 - 9.3.1 Potential Innovations	21
 - 9.3.2 Collaboration Opportunities	21
 - 9.3.3 Growing the Ecosystem	21
-- 10. Conclusion	21
+10. Conclusion	21
 - 10.1 Summary of Findings	21
 - 10.1.1 Key Contributions	21
 - 10.1.2 Impact on Governance and Sustainability	21
