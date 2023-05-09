@@ -456,16 +456,19 @@ Addressing potential issues related to scalability & network congestion.
 
 Additionally, the platform must overcome barriers to adoption, including regulatory hurdles and the need for widespread digital literacy.
 #### 9.2.1 Scalability
-The scalability of Decentragora depends on the EVM and other infrastructures such as Alchemy or Infura. As the ecosystem grows, there may be a need to transition to a more scalable solution or create a layer three (L3) solution specifically to facilitate the collective. 
+The scalability of Decentragora depends on the EVM and other infrastructures such as Alchemy or Infura. As the collective grows, we will most likely transition to a more scalable solution or a layer three (L3) specifically designed to facilitate the transactions and development of the collective.
 
 As a collective, we put focus on security and scalability. As such, we want a sustainable future where collectives host infrastructure and build distribution channels for technological development. 
 
 One significant outlier in the industry is the need for physical infrastructure such as;
-Collaborative spaces
-Event areas
-Hardware
-Information centers
-Research centers
+- Collaborative spaces
+- Event areas
+- Hardware
+- Information centers
+- Research centers
+
+A big portion of our focus is on these exact needs.
+
 #### 9.2.2 Privacy
 Maintaining privacy for participants while ensuring transparency and accountability is a challenge. Decentragora must balance these requirements to build trust and maintain a healthy ecosystem.
 #### 9.2.3 Regulatory Compliance
