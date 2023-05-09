@@ -162,7 +162,8 @@ This greenpaper has ten sections, each focusing on a specific aspect of the Dece
 - 10.3 Final Thoughts	22
 - 10.3.1 The Future of Decentralized Governance	22
 - 10.3.2 Building a Regenerative and Resilient World	22
-- Appendix: References	24
+
+Appendix: References	24
 
 ## 2. Background and Related Work
 ### 2.1 Decentralized Autonomous Organizations (DAOs)
